@@ -1,3 +1,6 @@
 [submodule "git-workshop"]
 	path = git-workshop
 	url = https://github.com/mosharafkarim/git-workshop
+[submodule "java-programming--1"]
+	path = java-programming--1
+	url = https://github.com/mosharafkarim/java-programming--1
